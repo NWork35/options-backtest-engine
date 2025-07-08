@@ -1,5 +1,6 @@
 {
   "capital": 1000000,
+  "dhan_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzU0NTQ5ODM5LCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMTM1MzI4MCJ9.cBmGcOOYMkDyZ5iy3W79NntBmX9lTMC1ku-VAlZGS2x9tEYlqZMN7ZzYtIS2IXVWg_33tGx3lqTp29tOOO3t_g",
   "qty": 25,
   "sl_pct": 25,
   "max_daily_loss": 25000,
