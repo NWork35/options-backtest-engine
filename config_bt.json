@@ -1,1 +1,13 @@
+{
+  "capital": 1000000,
+  "qty": 25,
+  "sl_pct": 25,
+  "max_daily_loss": 25000,
+  "strategy": "straddle",
+  "start_date": "2025-06-01",
+  "end_date": "2025-06-30",
+  "data_source": "csv",  // or "dhan"
+  "spot_csv": "data/banknifty_spot.csv",
+  "option_csv": "data/options_2025_06.csv"
+}
 
